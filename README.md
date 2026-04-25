@@ -255,6 +255,10 @@ Nitro-Menu Feature Dump
 
  - Canyon Pillow Sound Spam [RT]
 
+ - Save ID Gun
+
+ - Save All IDs
+
 Nitro Feature Dumper is not as complex at the moment, in the future ill make it so it divides all the features in groups :D
 
 ## ⬇️ Installation
